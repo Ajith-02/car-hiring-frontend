@@ -30,7 +30,6 @@ function Forgotpassword() {
           }}
           variant="h1"
         >
-          CAR CORNER
         </Typography>
       </div>
       <div className="formcontainer">
